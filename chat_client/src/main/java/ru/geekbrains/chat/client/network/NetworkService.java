@@ -20,7 +20,7 @@ public class NetworkService {
 
     public void readMessages() {
         Thread t = new Thread(() -> {
-            while (!Thread.currentThread().isInterrupted()){
+            while (!Thread.currentThread().isInterrupted()) {
                 try {
                     String in = inputStream.readUTF();
                     messageService.receive(in);

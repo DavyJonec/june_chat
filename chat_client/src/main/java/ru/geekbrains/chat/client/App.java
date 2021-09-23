@@ -28,4 +28,6 @@ public class App extends Application {
         stage1 = stage;
         stage.show();
     }
+
 }
+
