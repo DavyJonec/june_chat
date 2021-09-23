@@ -1,0 +1,18 @@
+[ME] Hello
+[ME] How are you?
+[user2] [pub] Who is here?
+[ME] Me
+[ME] Why
+[ME] &&&
+[ME] ^&
+[ME] sds
+[ME] Somebody tell me
+user1: dfd 
+user1: drgfg 
+[user2] [pub] sdff3
+[user2] [pub] 34435
+user1: dh 
+user1: sdsd 
+[[pub]] user2 sdfsd
+user1: sdsd 
+[pub] user2: asas
